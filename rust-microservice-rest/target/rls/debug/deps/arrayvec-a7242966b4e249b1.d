@@ -1,0 +1,11 @@
+/Volumes/Data/Blog/Build a minimal microservice with Rust/repo2/rust-microservice-rest/target/rls/debug/deps/arrayvec-a7242966b4e249b1.rmeta: /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/lib.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/maybe_uninit_nodrop.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/array.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/array_string.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/char.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/range.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/errors.rs
+
+/Volumes/Data/Blog/Build a minimal microservice with Rust/repo2/rust-microservice-rest/target/rls/debug/deps/arrayvec-a7242966b4e249b1.d: /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/lib.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/maybe_uninit_nodrop.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/array.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/array_string.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/char.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/range.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/errors.rs
+
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/lib.rs:
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/maybe_uninit_nodrop.rs:
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/array.rs:
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/array_string.rs:
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/char.rs:
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/range.rs:
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.4.10/src/errors.rs:
