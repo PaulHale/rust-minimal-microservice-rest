@@ -1,1 +1,0 @@
-{"rustc":12964410163570521870,"features":"[]","target":2150355634120532014,"profile":14891217944882224483,"path":1036222786711178230,"deps":[["hyper v0.12.27","hyper",2200401769875349693]],"local":[{"MtimeBased":[[1556102091,479236000],".fingerprint/rust-microservice-3ea5754f58cc96e2/dep-bin-rust_microservice-3ea5754f58cc96e2"]}],"rustflags":[],"edition":"Edition2018"}

@@ -1,0 +1,11 @@
+/Volumes/Data/Blog/Build a minimal microservice with Rust/repo2/rust-microservice-rest/target/rls/debug/deps/ucd_util-f181a76cc5d39b3c.rmeta: /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/lib.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/hangul.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/ideograph.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/name.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/property.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/unicode_tables/mod.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/unicode_tables/jamo_short_name.rs
+
+/Volumes/Data/Blog/Build a minimal microservice with Rust/repo2/rust-microservice-rest/target/rls/debug/deps/ucd_util-f181a76cc5d39b3c.d: /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/lib.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/hangul.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/ideograph.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/name.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/property.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/unicode_tables/mod.rs /Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/unicode_tables/jamo_short_name.rs
+
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/lib.rs:
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/hangul.rs:
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/ideograph.rs:
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/name.rs:
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/property.rs:
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/unicode_tables/mod.rs:
+/Users/paul/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.3/src/unicode_tables/jamo_short_name.rs:
